@@ -1,2 +1,2 @@
-# oracle-api
+# oracle-cloud-api
 An Oracle API client implemented in nodejs
